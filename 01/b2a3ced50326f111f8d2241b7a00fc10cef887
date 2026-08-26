@@ -1,0 +1,23 @@
+agent/src/portfolio/service.py
+  s_ecbeb37ef8729f::t_b089cf86af79a4 37,299,379-380,451-455
+agent/src/portfolio/store.py
+  s_ecbeb37ef8729f::t_04e21c67d4d964 98-102,112-114,119,124,129,131-148
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "01b2a3ced50326f111f8d2241b7a00fc10cef887",
+  "prompts": {},
+  "sessions": {
+    "s_ecbeb37ef8729f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03cec-a8b6-7cc1-affd-92027c142cda",
+        "model": "unknown"
+      },
+      "human_author": "JaxonHu1024 <983350385@qq.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
